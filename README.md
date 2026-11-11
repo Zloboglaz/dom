@@ -1,8 +1,8 @@
 # Перемещение элемента
 
-[![Сборка](https://github.com/OWNER/REPO/actions/workflows/pages.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/pages.yml)
+[![Сборка](https://github.com/Zloboglaz/dom/actions/workflows/pages.yml/badge.svg)](https://github.com/Zloboglaz/dom/actions/workflows/pages.yml)
 
-[Открыть на GitHub Pages](https://OWNER.github.io/REPO/)
+[Открыть на GitHub Pages](https://Zloboglaz.github.io/dom/)
 
 Домашнее задание по работе с DOM.
 
